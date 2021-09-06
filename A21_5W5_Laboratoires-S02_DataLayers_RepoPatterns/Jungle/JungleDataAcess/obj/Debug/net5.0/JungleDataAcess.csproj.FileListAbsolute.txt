@@ -13,3 +13,6 @@ G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\ref\JungleDataAcess.dll
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.pdb
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.genruntimeconfig.cache
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\bin\Debug\net5.0\JungleModels.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\bin\Debug\net5.0\JungleModels.pdb
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.csproj.CopyComplete

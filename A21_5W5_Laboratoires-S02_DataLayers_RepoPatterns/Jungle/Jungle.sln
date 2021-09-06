@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jungle", "Jungle\Jungle.csproj", "{7AC26AB2-26BC-4DBB-8E80-A05DE9AE3459}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JungleDataAcess", "JungleDataAcess\JungleDataAcess.csproj", "{59B4EC02-310E-4450-B0BF-07D421AAE564}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JungleDataAcess", "JungleDataAcess\JungleDataAcess.csproj", "{59B4EC02-310E-4450-B0BF-07D421AAE564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JungleModels", "JungleModels\JungleModels.csproj", "{042E859A-69C6-4276-BE2E-657DE11E411C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{59B4EC02-310E-4450-B0BF-07D421AAE564}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59B4EC02-310E-4450-B0BF-07D421AAE564}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59B4EC02-310E-4450-B0BF-07D421AAE564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042E859A-69C6-4276-BE2E-657DE11E411C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042E859A-69C6-4276-BE2E-657DE11E411C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042E859A-69C6-4276-BE2E-657DE11E411C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042E859A-69C6-4276-BE2E-657DE11E411C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

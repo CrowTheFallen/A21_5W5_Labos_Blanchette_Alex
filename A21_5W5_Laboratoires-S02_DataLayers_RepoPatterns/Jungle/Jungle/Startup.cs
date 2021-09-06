@@ -29,7 +29,7 @@ namespace Jungle
 
 
       services.AddDbContext<JungleDbContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("MvcMovieContext")));
+            options.UseSqlServer(Configuration.GetConnectionString("JungleDbContext")));
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -56,7 +56,7 @@ namespace Jungle
       {
         endpoints.MapControllerRoute(
                   name: "default",
-                  pattern: "{controller=Home}/{action=Index}/{id?}");
+                  pattern: "{area=Client}/{controller=Home}/{action=Index}/{id?}");
       });
     }
   }

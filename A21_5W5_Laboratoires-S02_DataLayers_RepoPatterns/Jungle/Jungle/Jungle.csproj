@@ -20,7 +20,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Client\Controllers\" />
+  </ItemGroup>
+    
+  <ItemGroup>
     <ProjectReference Include="..\JungleDataAcess\JungleDataAcess.csproj" />
+   <ProjectReference Include="..\JungleModels\JungleModels.csproj" />
   </ItemGroup>
 
 </Project>

@@ -372,8 +372,6 @@ G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Jungle.TagHelpers.input.cache
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Jungle.TagHelpers.output.cache
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Jungle.RazorCoreGenerate.cache
-G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -387,3 +385,11 @@ G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\ref\Jungle.dll
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Jungle.pdb
 G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Jungle.genruntimeconfig.cache
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Razor\Areas\Client\Views\Home\Index.cshtml.g.cs
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Razor\Areas\Client\Views\Home\Privacy.cshtml.g.cs
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\bin\Debug\net5.0\JungleModels.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\bin\Debug\net5.0\JungleModels.pdb
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Razor\Areas\Client\Views\_ViewImports.cshtml.g.cs
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\Jungle\obj\Debug\net5.0\Razor\Areas\Client\Views\_ViewStart.cshtml.g.cs

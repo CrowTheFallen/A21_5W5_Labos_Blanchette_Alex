@@ -1,0 +1,12 @@
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\bin\Debug\net5.0\JungleModels.deps.json
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\bin\Debug\net5.0\JungleModels.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\bin\Debug\net5.0\ref\JungleModels.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\bin\Debug\net5.0\JungleModels.pdb
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\obj\Debug\net5.0\JungleModels.csprojAssemblyReference.cache
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\obj\Debug\net5.0\JungleModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\obj\Debug\net5.0\JungleModels.AssemblyInfoInputs.cache
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\obj\Debug\net5.0\JungleModels.AssemblyInfo.cs
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\obj\Debug\net5.0\JungleModels.csproj.CoreCompileInputs.cache
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\obj\Debug\net5.0\JungleModels.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\obj\Debug\net5.0\ref\JungleModels.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleModels\obj\Debug\net5.0\JungleModels.pdb
