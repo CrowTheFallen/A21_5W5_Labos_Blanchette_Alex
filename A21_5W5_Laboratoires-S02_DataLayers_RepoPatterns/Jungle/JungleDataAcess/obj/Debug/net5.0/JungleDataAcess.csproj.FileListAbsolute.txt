@@ -1,0 +1,15 @@
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\bin\Debug\net5.0\JungleDataAcess.deps.json
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\bin\Debug\net5.0\JungleDataAcess.runtimeconfig.json
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\bin\Debug\net5.0\JungleDataAcess.runtimeconfig.dev.json
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\bin\Debug\net5.0\JungleDataAcess.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\bin\Debug\net5.0\ref\JungleDataAcess.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\bin\Debug\net5.0\JungleDataAcess.pdb
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.csprojAssemblyReference.cache
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.AssemblyInfoInputs.cache
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.AssemblyInfo.cs
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.csproj.CoreCompileInputs.cache
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\ref\JungleDataAcess.dll
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.pdb
+G:\Web\travaux\A21_5W5_Labos_Blanchette_Alex\A21_5W5_Laboratoires-S02_DataLayers_RepoPatterns\Jungle\JungleDataAcess\obj\Debug\net5.0\JungleDataAcess.genruntimeconfig.cache
