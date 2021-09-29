@@ -4973,11 +4973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1676459\\Desktop\\A21_5W5_Laboratoires\\Appl_TestsUnitaires\\Appl_TestsUnitaires_Tests_NU\\Appl_TestsUnitaires_Tests_NU.csproj",
+      "projectUniqueName": "C:\\Users\\1676459\\Desktop\\A21_5W5_Labos_Blanchette_Alex\\Appl_TestsUnitaires\\Appl_TestsUnitaires_Tests_NU\\Appl_TestsUnitaires_Tests_NU.csproj",
       "projectName": "Appl_TestsUnitaires_Tests_NU",
-      "projectPath": "C:\\Users\\1676459\\Desktop\\A21_5W5_Laboratoires\\Appl_TestsUnitaires\\Appl_TestsUnitaires_Tests_NU\\Appl_TestsUnitaires_Tests_NU.csproj",
+      "projectPath": "C:\\Users\\1676459\\Desktop\\A21_5W5_Labos_Blanchette_Alex\\Appl_TestsUnitaires\\Appl_TestsUnitaires_Tests_NU\\Appl_TestsUnitaires_Tests_NU.csproj",
       "packagesPath": "C:\\Users\\1676459\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1676459\\Desktop\\A21_5W5_Laboratoires\\Appl_TestsUnitaires\\Appl_TestsUnitaires_Tests_NU\\obj\\",
+      "outputPath": "C:\\Users\\1676459\\Desktop\\A21_5W5_Labos_Blanchette_Alex\\Appl_TestsUnitaires\\Appl_TestsUnitaires_Tests_NU\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1676459\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4994,8 +4994,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\1676459\\Desktop\\A21_5W5_Laboratoires\\Appl_TestsUnitaires\\Appl_TestsUnitaires\\Appl_TestsUnitaires.csproj": {
-              "projectPath": "C:\\Users\\1676459\\Desktop\\A21_5W5_Laboratoires\\Appl_TestsUnitaires\\Appl_TestsUnitaires\\Appl_TestsUnitaires.csproj"
+            "C:\\Users\\1676459\\Desktop\\A21_5W5_Labos_Blanchette_Alex\\Appl_TestsUnitaires\\Appl_TestsUnitaires\\Appl_TestsUnitaires.csproj": {
+              "projectPath": "C:\\Users\\1676459\\Desktop\\A21_5W5_Labos_Blanchette_Alex\\Appl_TestsUnitaires\\Appl_TestsUnitaires\\Appl_TestsUnitaires.csproj"
             }
           }
         }

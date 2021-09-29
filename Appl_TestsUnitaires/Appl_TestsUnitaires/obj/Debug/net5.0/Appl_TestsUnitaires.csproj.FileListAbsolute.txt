@@ -1,0 +1,12 @@
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\bin\Debug\net5.0\Appl_TestsUnitaires.deps.json
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\bin\Debug\net5.0\Appl_TestsUnitaires.dll
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\bin\Debug\net5.0\ref\Appl_TestsUnitaires.dll
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\bin\Debug\net5.0\Appl_TestsUnitaires.pdb
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\obj\Debug\net5.0\Appl_TestsUnitaires.csproj.AssemblyReference.cache
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\obj\Debug\net5.0\Appl_TestsUnitaires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\obj\Debug\net5.0\Appl_TestsUnitaires.AssemblyInfoInputs.cache
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\obj\Debug\net5.0\Appl_TestsUnitaires.AssemblyInfo.cs
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\obj\Debug\net5.0\Appl_TestsUnitaires.csproj.CoreCompileInputs.cache
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\obj\Debug\net5.0\Appl_TestsUnitaires.dll
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\obj\Debug\net5.0\ref\Appl_TestsUnitaires.dll
+C:\Users\1676459\Desktop\A21_5W5_Labos_Blanchette_Alex\Appl_TestsUnitaires\Appl_TestsUnitaires\obj\Debug\net5.0\Appl_TestsUnitaires.pdb
