@@ -5,10 +5,10 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jungle_DataAccess.Repository.IRepository
+namespace Jungle_Models.Repositories
 {
-  // Ce doit être une interface générique <T> (T pour s'adapter au type d'objet classe ) publique
-  public interface IRepositoryAsync<T> where T : class
+    // Ce doit être une interface générique <T> (T pour s'adapter au type d'objet classe ) publique
+    public interface IRepositoryAsync<T> where T : class
   {
     // Les méthodes devant être implantées dans les repositories
 

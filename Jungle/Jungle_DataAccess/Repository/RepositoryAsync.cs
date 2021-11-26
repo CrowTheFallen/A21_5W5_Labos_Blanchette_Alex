@@ -1,4 +1,4 @@
-﻿using Jungle_DataAccess.Repository.IRepository;
+﻿using Jungle_Models.Repositories;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

@@ -26,3 +26,23 @@
 
             ApplicationUser user = _db.ApplicationUser.FirstOrDefault(u => u.Email == "9999999@cegepmontpetit.ca");
             _userManager.AddToRoleAsync(user, AppConst.AdminRole).GetAwaiter().GetResult();
+
+
+
+	    if (_db.Roles.Any(r => r.Name == AppConst.CustomerRole)) return;
+
+            _roleManager.CreateAsync(new IdentityRole(AppConst.CustomerRole)).GetAwaiter().GetResult();
+            // Autres roles
+
+            _userManager.CreateAsync(new ApplicationUser
+            {
+                UserName = "1676459@cegepmontpetit.ca",
+                Email = "1676459@cegepmontpetit.ca",
+                EmailConfirmed = true,
+                NickName= "CustomerJungle",
+                PhoneNumber = "211111111111"
+            }, "Jungle1234*").GetAwaiter().GetResult();
+
+            ApplicationUser user = _db.ApplicationUser.FirstOrDefault(u => u.Email == "1676459@cegepmontpetit.ca");
+            _userManager.AddToRoleAsync(user, AppConst.CustomerRole).GetAwaiter().GetResult();
+

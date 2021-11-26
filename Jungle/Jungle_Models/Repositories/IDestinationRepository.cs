@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jungle_DataAccess.Repository.IRepository
+namespace Jungle_Models.Repositories
 {
-  public interface IDestinationRepository : IRepositoryAsync<Destination>
+    public interface IDestinationRepository : IRepositoryAsync<Destination>
   {
     void Update(Destination destination);
   }

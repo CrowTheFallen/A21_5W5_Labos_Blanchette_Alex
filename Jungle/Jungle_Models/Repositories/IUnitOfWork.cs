@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jungle_DataAccess.Repository.IRepository
+namespace Jungle_Models.Repositories
 {
   public interface IUnitOfWork : IDisposable
   {

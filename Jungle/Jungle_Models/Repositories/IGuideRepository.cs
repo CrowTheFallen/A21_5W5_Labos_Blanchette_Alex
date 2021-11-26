@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jungle_DataAccess.Repository.IRepository
+namespace Jungle_Models.Repositories
 {
-  public interface ICountryRepository : IRepositoryAsync<Country>
+    public interface IGuideRepository : IRepositoryAsync<Guide>
   {
-    void Update(Country country);
+    void Update(Guide guide);
   }
 }

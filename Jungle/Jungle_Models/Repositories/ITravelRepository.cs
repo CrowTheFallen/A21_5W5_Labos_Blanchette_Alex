@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jungle_DataAccess.Repository.IRepository
+namespace Jungle_Models.Repositories
 {
-  public interface IGuideRepository : IRepositoryAsync<Guide>
+    public interface ITravelRepository : IRepositoryAsync<Travel>
   {
-    void Update(Guide guide);
+    void Update(Travel travel);
   }
 }

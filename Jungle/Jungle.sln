@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jungle_DataAccess", "Jungle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jungle_Models", "Jungle_Models\Jungle_Models.csproj", "{5006B2B4-E884-4A86-8622-262091379049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jungle_Utility", "Jungle_Utility\Jungle_Utility.csproj", "{D2DA2D33-D2CC-4523-9083-921347A1A693}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jungle_Utility", "Jungle_Utility\Jungle_Utility.csproj", "{D2DA2D33-D2CC-4523-9083-921347A1A693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jungle_Service", "Jungle_Service\Jungle_Service.csproj", "{4AD8B7CB-4185-419D-80B7-E18E840D2047}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D2DA2D33-D2CC-4523-9083-921347A1A693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2DA2D33-D2CC-4523-9083-921347A1A693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2DA2D33-D2CC-4523-9083-921347A1A693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD8B7CB-4185-419D-80B7-E18E840D2047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD8B7CB-4185-419D-80B7-E18E840D2047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD8B7CB-4185-419D-80B7-E18E840D2047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD8B7CB-4185-419D-80B7-E18E840D2047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
